@@ -50,7 +50,7 @@ footer{
     border: 0.1vw solid black;
     border-radius: 50vw;
     color: white;
-    padding-left: 0.5vw;
+    padding-right: 0.5vw;
     height: 40px;
     text-align: right;
     
@@ -64,7 +64,7 @@ footer{
     border: 0.1vw solid black;
     border-radius: 50vw;
     color: white;
-    padding-left: 0.5vw;
+    padding-right: 0.5vw;
     height: 40px;
     text-align: right;
 }
